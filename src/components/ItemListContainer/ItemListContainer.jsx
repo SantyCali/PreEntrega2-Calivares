@@ -18,11 +18,11 @@ const ItemListContainer = () => {
     } else {
         consultarBDD("./json/productos.json").then(productsList => {
             const cardProductos = ItemList({productsList})
-                setProductos(cardProductos)
+                setProductos(cardProductos) 
        })
     }
 
-    },[]);
+    },[category]);
 
         
 
@@ -37,3 +37,4 @@ return (
 }
 
 export default ItemListContainer;
+

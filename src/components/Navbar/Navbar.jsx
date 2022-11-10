@@ -1,5 +1,4 @@
 import './navbar.css'
-import FormBusqueda from '../FormBusqueda/FormBusqueda';
 import Dropdown from '../Dropdown/Dropdown';
 import Logo from '../Logo/Logo';
 import CartWidget from '../CartWidget/CartWidget';
@@ -21,7 +20,6 @@ const Navbar = () => {
           </ul>
         </div>
         <CartWidget/>
-        <FormBusqueda busqueda={"Buscar Productos"}/>
       </div>
     </nav>
 

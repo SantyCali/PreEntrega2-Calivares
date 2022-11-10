@@ -30,7 +30,15 @@
 
 
 .detalleProducto {
-    max-width: 540px;
+    width: 540px;
+    margin-left: 510px;
+}
+
+.detalleProducto img{
+    object-fit: cover;
+    width: 400px;
+    height: 380px;
+    margin-left: 50px;
 }
 
 .botonProducto2{
@@ -57,3 +65,18 @@
 }
 
 
+.resta{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.suma{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+
+.bolsa{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
