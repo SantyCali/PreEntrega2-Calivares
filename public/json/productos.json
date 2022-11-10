@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Ferrero Rocher",
+        "marca": "Ferrero",
+        "precio": 380,
+        "stock": 30,
+        "img": "ferrero.jpeg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Genio",
+        "marca": "Nevares",
+        "precio": 60,
+        "stock": 50,
+        "img": "genio.jpeg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Hersheys",
+        "marca": "Hersheys Food",
+        "precio": 280,
+        "stock": 15,
+        "img": "hersheys.jpeg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombre": "Nugaton",
+        "marca": "Bonafide",
+        "precio": 60,
+        "stock": 30,
+        "img": "nugaton.jpeg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Torta Smack",
+        "marca": "Smack",
+        "precio": 90,
+        "stock": 20,
+        "img": "torta-smack.jpeg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 1,
+        "nombre": "Vauquita",
+        "marca": "Vauquita",
+        "precio": 170,
+        "stock": 30,
+        "img": "vauquita.jpeg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 1,
+        "nombre": "Vizzio",
+        "marca": "Bonafide",
+        "precio": 180,
+        "stock": 10,
+        "img": "vizzio.jpeg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Raspadita de $10",
+        "marca": "Tarasca",
+        "precio": 10,
+        "stock": 50,
+        "img": "tarasca-1.jpeg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Raspadita de $15",
+        "marca": "Tarasca",
+        "precio": 15,
+        "stock": 65,
+        "img": "tarasca-5.jpeg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Raspadita de $50",
+        "marca": "Tarasca",
+        "precio": 50,
+        "stock": 25,
+        "img": "tarasca-3.jpeg"
+    }
+    
+]
